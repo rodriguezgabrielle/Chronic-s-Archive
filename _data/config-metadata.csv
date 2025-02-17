@@ -1,13 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
+identifier,Accession Number,,
+location,Shelf Location
+title,Title
+creator,Creator,true
+date,Date Created
 description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+contents,Scope and Contents
+extent, Extent
+subjects,Subjects,true,
 identifier,Source Identifier,,
 type,Type,
 format,Format,
